@@ -1,5 +1,36 @@
 .title{
-    font-size: larger;
+    font-size: 3vw;
     text-align: center;
-    color: ;
+    font-family: sans-serif;
+    font-style: italic;
+    background: #1100ff;
+    color: white
+}
+img{
+    width: 90% ;
+    margin-left: 5%;
+    height: 80vh;
+}
+.information{
+    width: 100%;
+    background-image: linear-gradient(0deg ,#000000 #000000);
+    font-size: 2vw;
+    box-shadow: none;
+}
+.information > p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.supported{
+    font-size: 2vw;
+    text-align: center;
+}
+.dvices{
+    font-size: 1.8vw;
+    text-align: center;
+}
+.button{
+    font-size: 2vw;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px #000000;
 }
